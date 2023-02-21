@@ -13,7 +13,7 @@ library(tidyverse)
 library(jsonlite)
 
 #API
-guardian_api_key<-"bb7240ec-a6c0-47dd-8562-f809cdeaa9e7"
+guardian_api_key<-"XXX"
 
 
 #webscraping function
